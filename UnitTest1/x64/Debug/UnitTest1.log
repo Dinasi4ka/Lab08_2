@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\Admin\Desktop\Lab08_2\Lab08_2\Lab08_2.cpp(30,15): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+     Creating library C:\Users\Admin\Desktop\Lab08_2\x64\Debug\UnitTest1.lib and object C:\Users\Admin\Desktop\Lab08_2\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\Admin\Desktop\Lab08_2\x64\Debug\UnitTest1.dll
